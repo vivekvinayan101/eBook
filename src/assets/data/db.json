@@ -1,0 +1,556 @@
+{
+    "ebook": [
+      {
+        "id": 1,
+        "boookName": "Harry Potter and the Philosopher's Stone",
+        "categoryId" : "Fantasy",
+        "description" : "Escape to Hogwarts with the unmissable series that has sparked a lifelong reading journey for children and families all over the world. The magic starts here.Harry Potter has never even heard of Hogwarts when the letters start dropping on the doormat at number four, Privet Drive. Addressed in green ink on yellowish parchment with a purple seal, they are swiftly confiscated by his grisly aunt and uncle. Then, on Harry's eleventh birthday, a great beetle-eyed giant of a man called Rubeus Hagrid bursts in with some astonishing news: Harry Potter is a wizard, and he has a place at Hogwarts School of Witchcraft and Wizardry. The magic starts here!These editions of the classic and internationally bestselling Harry Potter series feature thrilling jacket artwork by award-winning illustrator Jonny Duddle. They are the perfect starting point for anyone who's ready to lose themselves in the greatest children's story of all time.",
+        "bookCover" : "https://i.postimg.cc/bYmv3btG/HP1.jpg",
+        "rating" : "4.5",
+        "Author" : "J. K. Rowling",
+        "amazon": "https://amzn.eu/d/9ybyhqL"
+        
+      },
+      {
+        "id": 2,
+        "boookName": "Harry Potter and the Chamber of Secrets",
+        "categoryId" : "Fantasy",
+        "description" : "Harry Potter's summer has included the worst birthday ever, doomy warnings from a house-elf called Dobby, and rescue from the Dursleys by his friend Ron Weasley in a magical flying car! Back at Hogwarts School of Witchcraft and Wizardry for his second year, Harry hears strange whispers echo through empty corridors - and then the attacks start. Students are found as through turned to stone . Dobby's sinister predictions seem to be coming true.These new editions of the classic and internationally bestselling, multi-award-winning series feature instantly pick-up-able new jackets by Jonny Duddle, with huge child appeal, to bring Harry Potter to the next generation of readers. It's time to PASS THE MAGIC ON .",
+        "bookCover" : "https://i.postimg.cc/05X8psTD/HP2.jpg",
+        "rating" : "4.3",
+        "Author" : "J. K. Rowling",
+        "amazon": "https://amzn.eu/d/av4QnDC"
+        
+      },{
+        "id": 3,
+        "boookName": "Harry Potter and the Prisoner of Azkaban",
+        "categoryId" : "Fantasy",
+        "description" : "When the Knight Bus crashes through the darkness and screeches to a halt in front of him, it's the start of another far from ordinary year at Hogwarts for Harry Potter. Sirius Black, escaped mass-murderer and follower of Lord Voldemort, is on the run - and they say he is coming after Harry. In his first ever Divination class, Professor Trelawney sees an omen of death in Harry's tea leaves . But perhaps most terrifying of all are the Dementors patrolling the school grounds, with their soul-sucking kiss. .",
+        "bookCover" : "https://i.postimg.cc/gJSPqVTm/HP3.jpg",
+        "rating" : "4.7",
+        "Author" : "J. K. Rowling",
+        "amazon": "https://amzn.eu/d/b2PqRJZ"
+        
+      },{
+        "id": 4,
+        "boookName": "Harry Potter and the Goblet of Fire",
+        "categoryId" : "Fantasy",
+        "description" : "The Triwizard Tournament is to be held at Hogwarts. Only wizards who are over seventeen are allowed to enter - but that doesn't stop Harry dreaming that he will win the competition. Then at Hallowe'en, when the Goblet of Fire makes its selection, Harry is amazed to find his name is one of those that the magical cup picks out. He will face death-defying tasks, dragons and Dark wizards, but with the help of his best friends, Ron and Hermione, he might just make it through - alive!.",
+        "bookCover" : "https://i.postimg.cc/bNLFGy4f/HP4.jpg",
+        "rating" : "4.6",
+        "Author" : "J. K. Rowling",
+        "amazon": "https://amzn.eu/d/iZ0bVdw"
+        
+      },{
+        "id": 5,
+        "boookName": "Harry Potter and the Order of the Phoenix",
+        "categoryId" : "Fantasy",
+        "description" : "Dark times have come to Hogwarts. After the Dementors' attack on his cousin Dudley, Harry Potter knows that Voldemort will stop at nothing to find him. There are many who deny the Dark Lord's return, but Harry is not alone: a secret order gathers at Grimmauld Place to fight against the Dark forces. Harry must allow Professor Snape to teach him how to protect himself from Voldemort's savage assaults on his mind. But they are growing stronger by the day and Harry is running out of time.",
+        "bookCover" : "https://i.postimg.cc/8czMxS4L/HP5.jpg",
+        "rating" : "4.6",
+        "Author" : "J. K. Rowling",
+        "amazon": "https://amzn.eu/d/7Uwc58s"
+        
+      },{
+        "id": 6,
+        "boookName": "Harry Potter and the Half Blood Prince",
+        "categoryId" : "Fantasy",
+        "description" : "When Dumbledore arrives at Privet Drive one summer night to collect Harry Potter, his wand hand is blackened and shrivelled, but he does not reveal why. Secrets and suspicion are spreading through the wizarding world, and Hogwarts itself is not safe. Harry is convinced that Malfoy bears the Dark Mark: there is a Death Eater amongst them. Harry will need powerful magic and true friends as he explores Voldemort's darkest secrets, and Dumbledore prepares him to face his destiny.",
+        "bookCover" : "https://i.postimg.cc/Jh3Xnndb/HP6.jpg",
+        "rating" : "4.5",
+        "Author" : "J. K. Rowling",
+        "amazon": "https://amzn.eu/d/ap64w6W"
+        
+      },{
+        "id": 7,
+        "boookName": "Harry Potter and the Deathly Hallows",
+        "categoryId" : "Fantasy",
+        "description" : "As he climbs into the sidecar of Hagrid's motorbike and takes to the skies, leaving Privet Drive for the last time, Harry Potter knows that Lord Voldemort and the Death Eaters are not far behind. The protective charm that has kept Harry safe until now is now broken, but he cannot keep hiding. The Dark Lord is breathing fear into everything Harry loves, and to stop him Harry will have to find and destroy the remaining Horcruxes. The final battle must begin - Harry must stand and face his enemy.",
+        "bookCover" : "https://i.postimg.cc/LsVqSWnD/HP7.jpg",
+        "rating" : "4.7",
+        "Author" : "J. K. Rowling",
+        "amazon": "https://amzn.eu/d/9krcDPi"
+        
+      },{
+        "id": 8,
+        "boookName": "The Lord of the Rings : FELLOWSHIP OF THE RING",
+        "categoryId" : "Fantasy",
+        "description" : "The Fellowship of the Ring consists of nine walkers who set out on the quest to destroy the One Ring, in opposition to the nine Black Riders: Frodo Baggins, Sam Gamgee, Merry Brandybuck and Pippin Took; Gandalf; the Elf Legolas; the Dwarf Gimli; and the Men Aragorn and Boromir, son of the Steward of Gondor. It is the first book of the Lord of the rings series.",
+        "bookCover" : "https://i.postimg.cc/Nj6F8n7t/LOTR1.jpg",
+        "rating" : "4.6",
+        "Author" : " J.R.R. Tolkien",
+        "amazon": "https://amzn.eu/d/5gm5plM"
+        
+      },{
+        "id": 9,
+        "boookName": "The Lord of the Rings : The Two Towers",
+        "categoryId" : "Fantasy",
+        "description" : "Continuing the story of The Hobbit, this is the second part of Tolkien’s epic masterpiece, The Lord of the Rings. Frodo and the Companions of the Ring have been beset by danger during their quest to prevent the ruling ring from falling into the hands of the Dark Lord by destroying it in the cracks of doom. They have lost the wizard, Gandalf, in the battle with an evil spirit in the Mines of Moria and at the Falls of Rauros, Boromir, seduced by the power of the Ring, tried to seize it by force. While Frodo and Sam made their escape the rest of the company were attacked by Orcs. Now they continue their journey alone down the great River Anduin – alone, that is, save for the mysterious creeping figure that follows wherever they go.",
+        "bookCover" : "https://i.postimg.cc/3rkgjKyH/LOTR2.jpg",
+        "rating" : "4.7",
+        "Author" : " J.R.R. Tolkien",
+        "amazon": "https://amzn.eu/d/eCzyi5w"
+        
+      },{
+        "id": 10,
+        "boookName": "The Lord of the Rings: The Return of the King",
+        "categoryId" : "Fantasy",
+        "description" : "Concluding the story begun in The Hobbit, this is the final part of Tolkien’s epic masterpiece, The Lord of the Rings. The armies of the Dark Lord Sauron are massing as his evil shadow spreads ever wider. Men, Dwarves, Elves and Ents unite forces to do battle agains the Dark. Meanwhile, Frodo and Sam struggle further into Mordor in their heroic quest to destroy the One Ring. The devastating conclusion of J.R.R. Tolkien’s classic tale of magic and adventure, begun in The Fellowship of the Ring and The Two Towers.",
+        "bookCover" : "https://i.postimg.cc/02mD3cdW/LOTR3.jpg",
+        "rating" : "4.8",
+        "Author" : " J.R.R. Tolkien",
+        "amazon": "https://amzn.eu/d/0u8WQPH"
+        
+      },{
+        "id": 11,
+        "boookName": "Percy Jackson and the Lightning Thief",
+        "categoryId" : "Fantasy",
+        "description" : "Half boy. Half God. ALL Hero.I was just a normal kid, I went to school (got expelled a lot, but that wasn't my fault), played sports and hung out with my best friend. Until I accidentally vaporized my maths teacher. Now, I spend my time at Camp Half Blood, battling monsters and generally trying to stay alive. And now that Zeus thinks I've stolen his lightning bolt, staying alive is going to be even harder... WHAT TO EXPECT FROM PERCY JACKSON:· Monsters· Greek Gods· Laughs (and terrified screams) Rick Riordan has now sold an incredible 60 million copies of his books worldwide. 'This is the stuff of legends' - The Guardian",
+        "bookCover" : "https://i.postimg.cc/BvZFjsWk/PJ1.jpg",
+        "rating" : "4.4",
+        "Author" : " Rick Riordan ",
+        "amazon": "https://amzn.eu/d/5ok3e9s"
+        
+      },{
+        "id": 12,
+        "boookName": "Percy Jackson and the Sea of Monsters",
+        "categoryId" : "Fantasy",
+        "description" : "Half boy. Half God. ALL Hero. I look like a normal kid. Only there's a difference. Poseidon, God of the Sea is my dad. Which sounds cool, but actually means there is usually someone (or something), somewhere, trying to kill me. Now I live at Camp Half-Blood, with other kids like me. But Camp Half-Blood is a bit different to most summer camps. Instead of toasting marshmallows and singing campfire songs, we battle giant cannibals at dodgeball. This time, we're under attack, and I need to get my hands on the Golden Fleece or we'll be invaded by monsters.",
+        "bookCover" : "https://i.postimg.cc/P5ypscL4/PJ2.jpg",
+        "rating" : "4.5",
+        "Author" : " Rick Riordan ",
+        "amazon": "https://amzn.eu/d/cQ7YrLQ"
+        
+      },{
+        "id": 13,
+        "boookName": "Percy Jackson and the Titan's Curse",
+        "categoryId" : "Fantasy",
+        "description" : "The book opens with Percy, Thalia and Annabeth travelling to Westover Hall to help the half-bloods, Nico and Bianca. Artemis comes to their aid when Dr. Thorn springs a surprise attack on them. However, even though they survive they realize Annabeth has been kidnapped.Percy then goes off seeking Artemis to join them for a council meeting at Olympus. They learn that Luke's army has imprisoned Artemis. Percy and his friends set out to free Artemis and Annabeth. Enroute, Percy is requested to help rescue Ophiotaurus, a cow-like being, who prophesied Olympus ruin. Percy also seeks the help of a Pegasus, Blackjack, to catch up with the others.Percy Jackson and The Titan's Curse describes the fight that takes place during the rescue mission. Apollo lends them his help and provides them with the use of a freight train to get to Cloudcroft. They receive another gift from Pan, a giant boar, that takes them to Gila Claw. Later, Percy and his friends come in contact with a mortal, Rachel, who is gifted with the ability to see through the Mist.During their journey, Bianca mistakenly awakens a Hephaestus prototype called Talos. Once they reach Mount Othrys, they find that Artemis has taken up Atlas burden of holding up the sky. How do they manage to take this burden away from Artemis? with Annabeth's life in danger, her father also comes to the groups aid. ",
+        "bookCover" : "https://i.postimg.cc/5NM6H1Lg/PJ3.jpg",
+        "rating" : "4.2",
+        "Author" : " Rick Riordan ",
+        "amazon": "https://amzn.eu/d/a9m67N9"
+        
+      },{
+        "id": 14,
+        "boookName": "Percy Jackson and the Last Olympian",
+        "categoryId" : "Fantasy",
+        "description" : "Everyone's favorite demigod child, Percy Jackson, returns for the final epic battle to ensure the safety of Mount Olympus, in Percy Jackson and The Last Olympian. After Percy learns that he is the son of Poseidon, his world turns upside down. A prophecy states that when he reaches the age of 16, he will have to make a choice that will affect the future of Olympus.The book opens with Percy and Beckendorf trying to destroy Kronos ship and defeat him before he reaches Olympus. Not one to be outsmarted, Kronos is in possession of Luke's body, the son of Hermes. Percy learns of the prophecy while at his father's underwater palace. to prepare for the battle, Percy dips himself in the famed River Styx. When he returns, he finds that all the residents of Manhattan have been put to sleep by Kronos, so that they do not get in the way of the battle.Amidst all this, Percy and Annabeth, daughter of Athena, also realize their feelings toward each other. The centaurs, hunters, nature spirits and other members of Camp Half-Blood unite to join Percy as they take on Kronos and his army. Percy and Kronos go head on in the throne room at Olympus. Percy also realizes that someone is betraying them and passing on secret information to the Titans. to top it all, the Titans have a monster that they plan to unleash on Percy's side. Will Luke be able to get rid of Kronos possession and will Percy manage to save the day? ",
+        "bookCover" : "https://i.postimg.cc/wTVT7N6x/PJ4.jpg",
+        "rating" : "4.5",
+        "Author" : " Rick Riordan ",
+        "amazon": "https://amzn.eu/d/i2vhh44"
+        
+      },{
+        "id": 15,
+        "boookName": "Percy Jackson and The Battle of the Labyrinth",
+        "categoryId" : "Fantasy",
+        "description" : "The story starts with 14 year old Percy is who is ready to start a fresh year of school. After getting ambushed by demon cheerleaders at his new school, Percy comes back to Camp Half-Blood only to learn about the mysterious Labyrinth.The maze was crafted by Daedalus and as per Greek mythology, is some part of King Minos' castle in Crete. Curiosity gets the best of Annabeth as Percy uncovers her plan to lead a quest through the passages of the Labyrinth. Percy also discovers that Luke is on his only to destroy the heart of the camp. With Annabeth, Percy plans to stop Luke and his armed forces and find Daedalus.The companions battle monsters, solve riddles, free prisoners and encounter many challenges on their journey. Later on in their expedition, Percy finds himself on an isolated island. It is here he has a monumental decision to make. Will he contemplate personal gain or complete his journey to save the world?",
+        "bookCover" : "https://i.postimg.cc/wMzgBqZs/PJ5.jpg",
+        "rating" : "4.3",
+        "Author" : " Rick Riordan ",
+        "amazon": "https://amzn.eu/d/dpSJclx"
+        
+      },{
+        "id": 16,
+        "boookName": "Dune",
+        "categoryId" : "Fantasy",
+        "description" : "Frank Herbert’s classic masterpiece—a triumph of the imagination and one of the bestselling science fiction novels of all time.Set on the desert planet Arrakis, Dune is the story of the boy Paul Atreides, heir to a noble family tasked with ruling an inhospitable world where the only thing of value is the “spice” melange, a drug capable of extending life and enhancing consciousness. Coveted across the known universe, melange is a prize worth killing for....When House Atreides is betrayed, the destruction of Paul’s family will set the boy on a journey toward a destiny greater than he could ever have imagined. And as he evolves into the mysterious man known as Muad’Dib, he will bring to fruition humankind’s most ancient and unattainable dream. A stunning blend of adventure and mysticism, environmentalism and politics",
+        "bookCover" : "https://i.postimg.cc/brC4kqdJ/DUNE.jpg",
+        "rating" : "4.5",
+        "Author" : "Frank Herbert",
+        "amazon": "https://amzn.eu/d/dmxc0bG"
+        
+      },{
+        "id": 17,
+        "boookName": "A Game of Thrones",
+        "categoryId" : "Fantasy",
+        "description" : "HBO’s hit series A GAME OF THRONES is based on George R R Martin’s internationally bestselling series A SONG OF ICE AND FIRE, the greatest fantasy epic of the modern age. A GAME OF THRONES is the first volume in the series.‘So vivid that you’ll be hooked within a few pages’ The TimesSummers span decades. Winter can last a lifetime. And the struggle for the Iron Throne has begun.As Warden of the north, Lord Eddard Stark counts it a curse when King Robert bestows on him the office of the Hand. His honour weighs him down at court where a true man does what he will, not what he must … and a dead enemy is a thing of beauty.The old gods have no power in the south, Stark’s family is split and there is treachery at court. Worse, the vengeance-mad heir of the deposed Dragon King has grown to maturity in exile in the Free Cities. He claims the Iron Throne.",
+        "bookCover" : "https://i.postimg.cc/gJG77xZj/GOT2.jpg",
+        "rating" : "4.6",
+        "Author" : "George R. R. Martin",
+        "amazon": "https://amzn.eu/d/i2yhUTY"
+        
+      },{
+        "id": 18,
+        "boookName": "A Clash of Kings",
+        "categoryId" : "Fantasy",
+        "description" : "HBO’s hit series A GAME OF THRONES is based on George R R Martin’s internationally bestselling series A SONG OF ICE AND FIRE, the greatest fantasy epic of the modern age. A CLASH OF KINGS is the second volume in the series. ‘Nobody does fantasy quite like Martin’ Sunday TimesThroughout Westeros, the cold winds are rising. From the ancient citadel of Dragonstone to the forbidding lands of Winterfell, chaos reigns as pretenders to the Iron Throne of the Seven Kingdoms stake their claims through tempest, turmoil and war. As a prophecy of doom cuts across the sky - a comet the colour of blood and flame - five factions struggle for control of a divided land. Brother plots against brother and the dead rise to walk in the night. Against a backdrop of incest, fratricide, alchemy and murder, the price of glory is measured in blood.",
+        "bookCover" : "https://i.postimg.cc/TwktHCxN/GOT3.jpg",
+        "rating" : "4.7",
+        "Author" : "George R. R. Martin",
+        "amazon": "https://amzn.eu/d/h0McRg3"
+        
+      },{
+        "id": 19,
+        "boookName": "A Storm of Swords",
+        "categoryId" : "Fantasy",
+        "description" : "HBO’s hit series A GAME OF THRONES is based on George R R Martin’s internationally bestselling series A SONG OF ICE AND FIRE, the greatest fantasy epic of the modern age.A STORM OF SWORDS: BLOOD AND GOLD is the SECOND part of the third volume in the series.‘Colossal, staggering . . . one of the greats’ SFXThe Starks are scattered.Robb Stark may be King in the North, but he must bend to the will of the old tyrant Walder Frey if he is to hold his crown. And while his youngest sister, Arya, has escaped the clutches of the depraved Cersei Lannister and her son, the capricious boy-king Joffrey, Sansa Stark remains their captive.Meanwhile, across the ocean, Daenerys Stormborn, the last heir of the Dragon King, delivers death to the slave-trading cities of Astapor and Yunkai as she approaches Westeros with vengeance in her heart.",
+        "bookCover" : "https://i.postimg.cc/cCn5gfqD/GOT4.jpg",
+        "rating" : "4.5",
+        "Author" : "George R. R. Martin",
+        "amazon": "https://amzn.eu/d/fy9sNd6"
+        
+      },{
+        "id": 20,
+        "boookName": "A Feast for Crows",
+        "categoryId" : "Fantasy",
+        "description" : "HBO’s hit series A GAME OF THRONES is based on George R. R. Martin’s internationally bestselling series A SONG OF ICE AND FIRE, the greatest fantasy epic of the modern age. A FEAST FOR CROWS is the fourth volume in the series.The Lannisters are in power on the Iron Throne.The war in the Seven Kingdoms has burned itself out, but in its bitter aftermath new conflicts spark to life. The Martells of Dorne and the Starks of Winterfell seek vengeance for their dead. Euron Crow’s Eye, as black a pirate as ever raised a sail, returns from the smoking ruins of Valyria to claim the Iron Isles.From the icy north, where Others threaten the Wall, apprentice Maester Samwell Tarly brings a mysterious babe in arms to the Citadel. As plots, intrigue and battle threaten to engulf Westeros, victory will go to the men and women possessed of the coldest steel and the coldest hearts.",
+        "bookCover" : "https://i.postimg.cc/TP5mX0nH/GOT5.jpg",
+        "rating" : "4.6",
+        "Author" : "George R. R. Martin",
+        "amazon": ""
+        
+      },{
+        "id": 21,
+        "boookName": "A Dance with Dragons",
+        "categoryId" : "Fantasy",
+        "description" : "HBO’s hit series A GAME OF THRONES is based on George R R Martin’s internationally bestselling series A SONG OF ICE AND FIRE, the greatest fantasy epic of the modern age.A DANCE WITH DRAGONS: DREAMS AND DUST is the FIRST part of the fifth volume in the series.‘Richly satisfying and utterly engrossing’ Sunday TimesIn the aftermath of a colossal battle, new threats are emerging from every direction.Tyrion Lannister, having killed his father, and wrongfully accused of killing his nephew, King Joffrey, has escaped from King’s Landing with a price on his head.To the north lies the great Wall of ice and stone – a structure only as strong as those guarding it. Eddard Stark's bastard son Jon Snow has been elected 998th Lord Commander of the Night’s Watch. But Jon has enemies both inside and beyond the Wall. And in the east Daenerys Targaryen struggles to hold a city built on dreams and dust.",
+        "bookCover" : "https://i.postimg.cc/WbfhbrpR/GOT6.jpg",
+        "rating" : "4.7",
+        "Author" : "George R. R. Martin",
+        "amazon": "https://amzn.eu/d/7uFwAhe"
+        
+      },{
+        "id": 22,
+        "boookName": "Eleven Minutes",
+        "categoryId" : "Romance",
+        "description" : "Eleven Minutes is the story of Maria, a young girl from a Brazilian village, whose first innocent brushes with love leave her heartbroken. At a tender age, she becomes convinced that she will never find true love, instead believing that “love is a terrible thing that will make you suffer. . . .” A chance meeting in Rio takes her to Geneva, where she dreams of finding fame and fortune.Maria’s despairing view of love is put to the test when she meets a handsome young painter. In this odyssey of self-discovery, Maria has to choose between pursuing a path of darkness—sexual pleasure for its own sake—or risking everything to find her own “inner light” and the possibility of sacred sex, sex in the context of love.",
+        "bookCover" : "https://i.postimg.cc/KzSy9cZs/11minutes.jpg",
+        "rating" : "3.9",
+        "Author" : "Paulo Coelho",
+        "amazon": "https://amzn.eu/d/aNgqQrc"
+        
+      },{
+        "id": 23,
+        "boookName": "Call Me By Your Name",
+        "categoryId" : "Romance",
+        "description" : "Call Me by Your Name is the story of a sudden and powerful romance that blossoms between an adolescent boy and a summer guest at his parents' cliff-side mansion on the Italian Riviera. Unprepared for the consequences of their attraction, at first each feigns indifference. But during the restless summer weeks that follow, unrelenting buried currents of obsession and fear, fascination and desire, intensify their passion as they test the charged ground between them. What grows from the depths of their spirits is a romance of scarcely six weeks' duration and an experience that marks them for a lifetime. For what the two discover on the Riviera and during a sultry evening in Rome is the one thing both already fear they may never truly find again: total intimacy. The psychological maneuvers that accompany attraction have seldom been more shrewdly captured than in André Aciman's frank, unsentimental, heartrending elegy to human passion. Call Me by Your Name is clear-eyed, bare-knuckled, and ultimately unforgettable.",
+        "bookCover" : "https://i.postimg.cc/ZnJzSfv8/callmebyyourname.jpg",
+        "rating" : "4.6",
+        "Author" : "André Aciman",
+        "amazon": "https://amzn.eu/d/86bmRDv"
+        
+      },{
+        "id": 24,
+        "boookName": "I Will Give You the Sun",
+        "categoryId" : "Romance",
+        "description" : "The twins Jude and Noah have a very warm relationship, they are equally sensitive to the beauty of the world around them, there is almost a telepathic connection between them. At the same time, they are very the sister is a sociable, active and popular long-haired beauty, and the brother is an eccentric young artist, immersed in creativity.At one point, the characters became too enthusiastic and began to share parental love, friends and even the whole world Sudden tragic events, as well as a knot of conjecture, mutual suspicion and personal secrets forced them to close from each other for several years. Who will give the sun to whom in the end, where will Frieda Kahlo come from and what is the reason to carry an onion in the pocket of sweatshirt? This incredibly bright novel provides answers to such questions, and also helps to understand how ambiguous, colorful and rainbow our world is.",
+        "bookCover" : "https://i.postimg.cc/yY5phQ6L/iwillgiveyouthesun.jpg",
+        "rating" : "4.1",
+        "Author" : "Jandy Nelson",
+        "amazon": "https://amzn.eu/d/59Kez5t"
+        
+      },{
+        "id": 25,
+        "boookName": "The Fault in Our Stars",
+        "categoryId" : "Romance",
+        "description" : "Despite the tumor-shrinking medical miracle that has bought her a few years, Hazel has never been anything but terminal, her final chapter inscribed upon diagnosis. But when a gorgeous plot twist named Augustus Waters suddenly appears at Cancer Kid Support Group, Hazel's story is about to be completely rewritten.Insightful, bold, irreverent, and raw, The Fault in Our Stars is award-winning author John Green's most ambitious and heartbreaking work yet, brilliantly exploring the funny, thrilling, and tragic business of being alive and in love",
+        "bookCover" : "https://i.postimg.cc/kXhz1MsF/Faultinourstars.jpg",
+        "rating" : "4,2",
+        "Author" : "John Green",
+        "amazon": "https://amzn.eu/d/fnJsz0s"
+        
+      },{
+        "id": 26,
+        "boookName": "Jane Eyre",
+        "categoryId" : "Romance",
+        "description" : "Orphaned as a child, Jane has felt an outcast her whole young life. Her courage is tested once again when she arrives at Thornfield Hall, where she has been hired by the brooding, proud Edward Rochester to care for his ward Adèle. Jane finds herself drawn to his troubled yet kind spirit. She falls in love. Hard.But there is a terrifying secret inside the gloomy, forbidding Thornfield Hall. Is Rochester hiding from Jane? Will Jane be left heartbroken and exiled once again?",
+        "bookCover" : "https://i.postimg.cc/rwXCFvw2/Janeeyre.jpg",
+        "rating" : "4.3",
+        "Author" : "Charlotte Brontë",
+        "amazon": "https://amzn.eu/d/fc2E7E2"
+        
+      },{
+        "id": 27,
+        "boookName": "Normal People",
+        "categoryId" : "Romance",
+        "description" : "At school Connell and Marianne pretend not to know each other. He’s popular and well-adjusted, star of the school soccer team while she is lonely, proud, and intensely private. But when Connell comes to pick his mother up from her housekeeping job at Marianne’s house, a strange and indelible connection grows between the two teenagers - one they are determined to conceal. A year later, they’re both studying at Trinity College in Dublin. Marianne has found her feet in a new social world while Connell hangs at the sidelines, shy and uncertain. Throughout their years in college, Marianne and Connell circle one another, straying toward other people and possibilities but always magnetically, irresistibly drawn back together. Then, as she veers into self-destruction and he begins to search for meaning elsewhere, each must confront how far they are willing to go to save the other.",
+        "bookCover" : "https://i.postimg.cc/T3J78Rq4/normalpeople.jpg",
+        "rating" : "4.6",
+        "Author" : "Sally Rooney",
+        "amazon": "https://amzn.eu/d/fKTpYgy"
+        
+      },{
+        "id": 28,
+        "boookName": "Pride and Prejudice",
+        "categoryId" : "Romance",
+        "description" : "Pride and Prejudice is an 1813 novel of manners by Jane Austen. The novel follows the character development of Elizabeth Bennet, the dynamic protagonist of the book who learns about the repercussions of hasty judgments and comes to appreciate the difference between superficial goodness and actual goodness",
+        "bookCover" : "https://i.postimg.cc/MGGYh1Gn/P-P.jpg",
+        "rating" : "4.5",
+        "Author" : "Jane Austen",
+        "amazon": "https://amzn.eu/d/9seSkhV"
+        
+      },{
+        "id": 29,
+        "boookName": "The Proposal",
+        "categoryId" : "Romance",
+        "description" : "When freelance writer Nikole Paterson goes to a Dodgers game with her actor boyfriend, his man bun, and his bros, the last thing she expects is a scoreboard proposal. Saying no isn't the hard part--they've only been dating for five months, and he can't even spell her name correctly. The hard part is having to face a stadium full of disappointed fans...At the game with his sister, Carlos Ibarra comes to Nik's rescue and rushes her away from a camera crew. He's even there for her when the video goes viral and Nik's social media blows up--in a bad way. Nik knows that in the wilds of LA, a handsome doctor like Carlos can't be looking for anything serious, so she embarks on an epic rebound with him, filled with food, fun, and fantastic sex. But when their glorified hookups start breaking the rules, one of them has to be smart enough to put on the brakes...",
+        "bookCover" : "https://i.postimg.cc/KzMt2fh8/proposal.jpg",
+        "rating" : "3.8",
+        "Author" : "Jasmine Guillory",
+        "amazon": "https://amzn.eu/d/eNqFq5H"
+        
+      },{
+        "id": 30,
+        "boookName": "Before I Go to Sleep",
+        "categoryId" : "Crime",
+        "description" : "Christine wakes up every morning in an unfamiliar bed with an unfamiliar man. She looks in the mirror and sees an unfamiliar, middle-aged face. And every morning, the man she has woken up with must explain that he is Ben, he is her husband, she is forty-seven years old, and a terrible accident two decades earlier decimated her ability to form new memories.Every day, Christine must begin again the reconstruction of her past. And the closer she gets to the truth, the more unbelievable it seems.",
+        "bookCover" : "https://i.postimg.cc/0jvKqqCV/beforeigotosleep.jpg",
+        "rating" : "3.9",
+        "Author" : "S.J. Watson",
+        "amazon": "https://amzn.eu/d/hmMbYjj"
+        
+      },{
+        "id": 31,
+        "boookName": "The Girl with the Dragon Tattoo",
+        "categoryId" : "1",
+        "description" : "Harriet Vanger, a scion of one of Sweden’s wealthiest families disappeared over forty years ago. All these years later, her aged uncle continues to seek the truth. He hires Mikael Blomkvist, a crusading journalist recently trapped by a libel conviction, to investigate. He is aided by the pierced and tattooed punk prodigy Lisbeth Salander. Together they tap into a vein of unfathomable iniquity and astonishing corruption.An international publishing sensation, Stieg Larsson’s The Girl with the Dragon Tattoo combines murder mystery, family saga, love story, and financial intrigue into one satisfyingly complex and entertainingly atmospheric novel.",
+        "bookCover" : "https://i.postimg.cc/kgG6CsxP/girlwithdragontatoo.jpg",
+        "rating" : "4.6",
+        "Author" : "Stieg Larsson",
+        "amazon": "https://amzn.eu/d/8GRg76L"
+        
+      },{
+        "id": 32,
+        "boookName": "Gone Girl",
+        "categoryId" : "Crime",
+        "description" : "Who are you?What have we done to each other?These are the questions Nick Dunne finds himself asking on the morning of his fifth wedding anniversary when his wife Amy suddenly disappears. The police suspect Nick. Amy's friends reveal that she was afraid of him, that she kept secrets from him. He swears it isn't true. A police examination of his computer shows strange searches. He says they weren't made by him. And then there are the persistent calls on his mobile phone.So what did happen to Nick's beautiful wife?",
+        "bookCover" : "https://i.postimg.cc/dQnV0dQs/gonegirl.jpg",
+        "rating" : "4.6",
+        "Author" : "Gillian Flynn",
+        "amazon": "https://amzn.eu/d/cAMLERT"
+        
+      },{
+        "id": 33,
+        "boookName": "In the Woods",
+        "categoryId" : "Crime",
+        "description" : "As dusk approaches a small Dublin suburb in the summer of 1984, mothers begin to call their children home. But on this warm evening, three children do not return from the dark and silent woods. When the police arrive, they find only one of the children. He is gripping a tree trunk in terror, wearing blood-filled sneakers and unable to recall a single detail of the previous hours.Twenty years later, the found boy, Rob Ryan, is a detective on the Dublin Murder Squad and keeps his past a secret. But when a 12-year-old girl is found murdered in the same woods, he and Detective Cassie Maddox (his partner and closest friend) find themselves investigating a case chillingly similar to the previous unsolved mystery. Now, with only snippets of long-buried memories to guide him, Ryan has the chance to uncover both the mystery of the case before him and that of his own shadowy past.",
+        "bookCover" : "https://i.postimg.cc/63MxBrrF/intothewoods.jpg",
+        "rating" : "3.8",
+        "Author" : "Tana French",
+        "amazon": "https://amzn.eu/d/5kTO5WS"
+        
+      },{
+        "id":34,
+        "boookName": "Killing Floor",
+        "categoryId" : "Crime",
+        "description" : "Ex-military policeman Jack Reacher is a drifter. He's just passing through Margrave, Georgia, and in less than an hour, he's arrested for murder. Not much of a welcome. All Jack knows is that he didn't kill anybody. At least not here. Not lately. But he doesn't stand a chance of convincing anyone. not in Margrave, Georgia. Not a chance in hell.",
+        "bookCover" : "https://i.postimg.cc/5yXT1ZNF/Killingfloor.jpg",
+        "rating" : "4.2",
+        "Author" : "Lee Child",
+        "amazon": "https://amzn.eu/d/a3tgAt3"
+        
+      },{
+        "id": 35,
+        "boookName": "Murder On Express",
+        "categoryId" : "Crime",
+        "description" : "",
+        "bookCover" : "https://i.postimg.cc/pdPSy9Lv/murderonexpress.jpg",
+        "rating" : "4.4",
+        "Author" : "Lee Child",
+        "amazon": "https://amzn.eu/d/5HZuucn"
+        
+      },{
+        "id": 36,
+        "boookName": "The Silent Patient",
+        "categoryId" : "Crime",
+        "description" : "Theo Faber is a criminal psychotherapist who has waited a long time for the opportunity to work with Alicia. His determination to get her to talk and unravel the mystery of why she shot her husband takes him down a twisting path into his own motivations—a search for the truth that threatens to consume him....",
+        "bookCover" : "https://i.postimg.cc/T2Zf19MX/thesilentkiller.jpg",
+        "rating" : "4.6",
+        "Author" : "Alex Michaelides",
+        "amazon": "https://amzn.eu/d/aPClxzS"
+        
+      },{
+        "id": 37,
+        "boookName": "The Women in Black",
+        "categoryId" : "Crime",
+        "description" : "Sydney in the late 1950s. On the second floor of the famous F.G. Goode department store, in Ladies' Cocktail Frocks, the women in black are girding themselves for the Christmas rush. Lisa is the new Sales Assistant (Temporary). Across the floor and beyond the arch, she is about to meet the glamorous Continental refugee, Magda, guardian of the rose-pink cave of Model Gowns. With the lightest touch and the most tender of comic instincts, Madeleine St. John conjures a vanished summer of innocence. The Women in Black is a classic.",
+        "bookCover" : "https://i.postimg.cc/hjNWJSY0/thewomeninblack.jpg",
+        "rating" : "3.6",
+        "Author" : "Susan Hill",
+        "amazon": "https://amzn.eu/d/hNGovlr"
+        
+      },{
+        "id": 38,
+        "boookName": "Dracula",
+        "categoryId" : "Horror",
+        "description" : "When Jonathan Harker visits Transylvania to help Count Dracula with the purchase of a London house, he makes a series of horrific discoveries about his client. Soon afterwards, various bizarre incidents unfold in England: an apparently unmanned ship is wrecked off the coast of Whitby; a young woman discovers strange puncture marks on her neck; and the inmate of a lunatic asylum raves about the 'Master' and his imminent arrival.",
+        "bookCover" : "https://i.postimg.cc/856X0Lyh/dracula.jpg",
+        "rating" : "4.8",
+        "Author" : "Bram Stoker",
+        "amazon": "https://amzn.eu/d/1Nbn2Fs"
+        
+      }
+      ,{
+        "id": 39,
+        "boookName": "The Exorcist",
+        "categoryId" : "Horror",
+        "description" : "Georgetown, Washington D.C. Actress and divorced mother Chris MacNeil starts to experience 'difficulties' with her usually sweet-natured eleven-year-old daughter Regan. The child becomes afflicted by spasms, convulsions and unsettling amnesiac episodes; these abruptly worsen into violent fits of appalling foul-mouthed curses, accompanied by physical mutation. Medical science is baffled by Regan's plight and, in her increasing despair, Chris turns to troubled priest and psychiatrist Damien Karras, who immediately recognises something profoundly malevolent in Regan's distorted fetures and speech. On Karras's recommendation, the Church summons Father Merrin, a specialist in the exorcism of demons . . .",
+        "bookCover" : "https://i.postimg.cc/Y2QyNfL7/exorcist.jpg",
+        "rating" : "4.8",
+        "Author" : "William Peter Blatty",
+        "amazon": "https://amzn.eu/d/2n1ccmn"
+        
+      },{
+        "id": 40,
+        "boookName": "Frankenstein: The 1818 ",
+        "categoryId" : "Horror",
+        "description" : "Mary Shelley's seminal novel of the scientist whose creation becomes a monster. This edition is the original 1818 text, which preserves the hard-hitting and politically charged aspects of Shelley's original writing, as well as her unflinching wit and strong female voice. This edition also includes a new introduction and suggestions for further reading by author and Shelley expert Charlotte Gordon, literary excerpts and reviews selected by Gordon and a chronology and essay by preeminent Shelley scholar Charles E. Robinson.",
+        "bookCover" : "https://i.postimg.cc/pdgqzp2y/Frankenstein.jpg",
+        "rating" : "4.0",
+        "Author" : "Mary Wollstonecraft Shelley",
+        "amazon": "https://amzn.eu/d/35gxkIh"
+        
+      },{
+        "id": 41,
+        "boookName": "Hell House",
+        "categoryId" : "Horror",
+        "description" : "Regarded as the Mount Everest of haunted houses, Belasco House has witnessed scenes of almost unimaginable horror and depravity. Two previous expeditions to investigate its secrets met with disaster, the participants destroyed by murder, suicide or insanity. Now a new investigation has been mounted - four strangers, each with his or her own reason for daring the unknown torments and temptations of the mansion...",
+        "bookCover" : "https://i.postimg.cc/wT02FW6C/hellhouse.jpg",
+        "rating" : "4.1",
+        "Author" : "Richard Matheson",
+        "amazon": "https://amzn.eu/d/1cssRmR"
+        
+      },{
+        "id": 42,
+        "boookName": "Ring",
+        "categoryId" : "Horror",
+        "description" : "Asakawa, a hardworking journalist, is intrigued by his niece's inexplicable death. His investigation leads him from a metropolitan tokyo teeming with modern society's fears to a rural Japan--a mountain resort, a volcanic island, and a countryside clinic--haunted by the past. His attempt to solve the tape's mystery before it's too late--for everyone--assumes an increasingly deadly urgency. Ring is a chillingly told horror story, a masterfully suspenseful mystery, and post-modern trip.",
+        "bookCover" : "https://i.postimg.cc/NFb6JMw6/ring.jpg",
+        "rating" : "3.8",
+        "Author" : "Kōji Suzuki",
+        "amazon": "https://amzn.eu/d/37IOAsl"
+        
+      },{
+        "id": 43,
+        "boookName": "The Haunting of Hill House",
+        "categoryId" : "Horror",
+        "description" : "It is the story of four seekers who arrive at a notoriously unfriendly pile called Hill House: Dr. Montague, an occult scholar looking for solid evidence of a haunting; Theodora, the lighthearted assistant; Eleanor, a friendless, fragile young woman well acquainted with poltergeists; and Luke, the future heir of Hill House. At first, their stay seems destined to be merely a spooky encounter with inexplicable phenomena. But Hill House is gathering its powers—and soon it will choose one of them to make its own.",
+        "bookCover" : "https://i.postimg.cc/Zq3rkjSK/The-Haunting-of-Hill-House.jpg",
+        "rating" : "3.8",
+        "Author" : "Shirley Jackson",
+        "amazon": "https://amzn.eu/d/0kY6uk7"
+        
+      },{
+        "id": 44,
+        "boookName": "The Ruins",
+        "categoryId" : "Horror",
+        "description" : "Trapped in the Mexican jungle, a group of friends stumble upon a creeping horror unlike anything they could ever imagine. Two young couples are on a lazy Mexican vacation–sun-drenched days, drunken nights, making friends with fellow tourists. When the brother of one of those friends disappears, they decide to venture into the jungle to look for him. What started out as a fun day-trip slowly spirals into a nightmare when they find an ancient ruins site . . . and the terrifying presence that lurks there.",
+        "bookCover" : "https://i.postimg.cc/qMRyBpTF/theruins.jpg",
+        "rating" : "4.0",
+        "Author" : "Scott Smith",
+        "amazon": "https://amzn.eu/d/0kY6uk7"
+        
+      },{
+        "id": 45,
+        "boookName": "The Surgeon",
+        "categoryId" : "Horror",
+        "description" : "A killer who targets lone women, who breaks into their apartments and performs terrifying ritualistic acts of torture on them before finishing them off. His surgical skills lead police to suspect he is a physician - a physician who, instead of saving lives, takes them.",
+        "bookCover" : "https://i.postimg.cc/MGyj3T7n/thesurgeon.jpg",
+        "rating" : "4.1",
+        "Author" : "Tess Gerritsen",
+        "amazon": "https://amzn.eu/d/0BDi6eE"
+        
+      },{
+        "id": 46,
+        "boookName": "Cinderella",
+        "categoryId" : "Fairytales",
+        "description" : "Cinderella, the most popular of all fairy tales, is a time-less story of virtue rewarded. Sweet, beautiful Cinderella, cruelly mistreated by her evil stepmother and stepsisters, is helped by her magical fairy godmother, who sends her off to win the heart of a handsome prince and live happily ever after.",
+        "bookCover" : "https://i.postimg.cc/WbTj0439/cinderella.jpg",
+        "rating" : "4.0",
+        "Author" : "Charles Perrault ",
+        "amazon": "https://amzn.eu/d/cDESPrI"
+        
+      },{
+        "id": 47,
+        "boookName": "Ali Baba and the Forty Thieves",
+        "categoryId" : "Fairytales",
+        "description" : "Ali Baba learns the special words to open a secret lair filled with the loot of the forty thieves, but when he tells his brother, Qasim, greed takes over and Qasim is found dead, leaving Ali Baba to wonder if he had been better off not knowing the words at all.",
+        "bookCover" : "https://i.postimg.cc/Pq2dqnh6/Ali-Baba-and-the-Forty-Thieves.jpg" ,
+        "rating" : "4.1",
+        "Author" : "Eric A. Kimmel",
+        "amazon": "https://amzn.eu/d/ebCW7rr"
+        
+      },{
+        "id": 48,
+        "boookName": "Little Red Riding Hood",
+        "categoryId" : "Fairytales",
+        "description" : "Little Red Riding Hood by Charles Perrault tells of a young girl who comes across a cunning wolf on the way to her grandmother's home. The wolf deceives both her and her grandmother and eats them, a grim ending for the protagonist of the story. This version, by Charles Perrault, was first published in France in 1697",
+        "bookCover" : "https://i.postimg.cc/WzsKqhng/Little-Red-Riding-Hood.jpg",
+        "rating" : "3.9",
+        "Author" : "Charles Perrault ",
+        "amazon": "https://amzn.eu/d/3P1Iyp0"
+        
+      },{
+        "id": 49,
+        "boookName": "Pinocchio",
+        "categoryId" : "Fairytales",
+        "description" : "A poor man named Geppetto wants to carve himself a marionette in order to make a living as a puppeteer. He is given a piece of enchanted wood, and as soon as Geppetto carves the puppet, which he names Pinocchio, it begins abusing the old man.",
+        "bookCover" : "https://i.postimg.cc/NGxZqks4/pinocchio.jpg",
+        "rating" : "4.2",
+        "Author" : "Carlo Collodi",
+        "amazon": "https://amzn.eu/d/374lfm9"
+        
+      },{
+        "id": 50,
+        "boookName": "Puss in Boots",
+        "categoryId" : "Fairytales",
+        "description" : "Puss in Boots (Italian: Il gatto con gli stivali; French: Le Maître chat ou le Chat botté; German: Der gestiefelte Kater) is a European fairy tale about an anthropomorphic cat who uses trickery and deceit to gain power, wealth, and the hand in marriage of a princess for his penniless and low-born master.",
+        "bookCover" : "https://i.postimg.cc/YSgyX1DQ/pussinboots.jpg",
+        "rating" : "4.3",
+        "Author" : "Jerry Pinkney",
+        "amazon": "https://amzn.eu/d/hvt6D4k"
+        
+      },{
+        "id": 51,
+        "boookName": "Snow White",
+        "categoryId" : "Fairytales",
+        "description" : "Loosely based on the famous fairy tale by the Brothers Grimm, the plot is set into motion when a vain, wicked queen consults her magical mirror and learns that her beautiful stepdaughter, Snow White, is now the “fairest in the land.” Instantly resentful, the queen enlists a woodsman to murder Snow White, but he cannot ...",
+        "bookCover" : "https://i.postimg.cc/k4vYC7m4/snowwhite.jpg",
+        "rating" : "4.0",
+        "Author" : "Wanda Gag",
+        "amazon": "https://amzn.eu/d/hvt6D4k"
+        
+      },{
+        "id": 52,
+        "boookName": "The Elves and The Shoemaker",
+        "categoryId" : "Fairytales",
+        "description" : "The Elves and The Shoemaker (German: Die Wichtelmänner) is a set of fairy tales collected by the Brothers Grimm (KHM 39) about a poor shoemaker who receives much-needed help from three young helpful elves.",
+        "bookCover" : "https://i.postimg.cc/nczS88wF/The-Elves-and-the-Shoemaker.jpg",
+        "rating" : "3.7",
+        "Author" : "Grimm Brothers",
+        "amazon": "https://amzn.eu/d/bFNFVVd"
+        
+      },{
+        "id": 53,
+        "boookName": "The Little Mermaid",
+        "categoryId" : "Fairytales",
+        "description" : "The Little Mermaid written by Hans Christian Andersen. The Little Mermaid is a fairy tale by the Danish author Hans Christian Andersen about a young mermaid who is willing to give up her life in the sea and her identity as a mermaid to gain a human soul.",
+        "bookCover" : "https://i.postimg.cc/Nj2NM6cZ/the-little-mermaid.jpg",
+        "rating" : "4.1",
+        "Author" : "Hans Christian Andersen",
+        "amazon": "https://amzn.eu/d/dScwmfx"
+        
+      }
+    ],
+  "user":[
+    {
+      "1":{
+        "acno":"1",
+        "username":"Anu",
+        "password":"abc123"
+      }
+    },
+    {
+      "2":{
+      "acno":"2",
+      "username":"Ano",
+      "password":"abc123"
+    }
+
+    }
+
+  ]
+}
+     
